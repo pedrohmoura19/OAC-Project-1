@@ -1,0 +1,3 @@
+/home/pedro/Pedro/OAC/Trabalho-1/cmake-build-debug/CMakeFiles/Trabalho_1.dir
+/home/pedro/Pedro/OAC/Trabalho-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pedro/Pedro/OAC/Trabalho-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
